@@ -11,3 +11,9 @@ function suma() {
 
 let resultado = suma();
 console.log(resultado);
+
+function sumar() {
+    return 9 + 11;
+}
+
+console.log(sumar());
